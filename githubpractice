@@ -1,3 +1,5 @@
 config user.name "<willu jones>"
 config user.email "willyjones1982@yahoo.com>"
 git config list
+mkdir  Cats
+cd Cats
